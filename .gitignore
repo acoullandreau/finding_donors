@@ -4,3 +4,4 @@ test_census.csv
 __pycache__
 example_submission.csv
 visuals.py
+.ipynb_checkpoints/
